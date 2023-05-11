@@ -7,7 +7,7 @@ public class Main {
         int wage1 = employee1.calculateWage(150);
         System.out.println(wage1);
 
-        System.out.println("ahoj");
+       
     }
 
 
