@@ -7,11 +7,8 @@ public class Main {
         int wage1 = employee1.calculateWage(150);
         System.out.println(wage1);
 
-        var employee2 = new EmployeeSalary(70000);
-
+        System.out.println("ahoj");
     }
-
-
 
 
 
