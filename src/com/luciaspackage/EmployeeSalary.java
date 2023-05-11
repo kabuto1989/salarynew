@@ -22,6 +22,7 @@ public class EmployeeSalary {
         return baseSalary;
     }
 
+
     private void setBaseSalary(int baseSalary){
         if(baseSalary <= 0){
             throw new IllegalArgumentException("Salary cant be 0 or less");
@@ -31,10 +32,9 @@ public class EmployeeSalary {
 
 
     private int getBaseSalary(){
+
         return baseSalary;
     }
-
-
 
     private void setHourlyRate(int hourlyRate) {
         if(hourlyRate <= 0){
