@@ -3,7 +3,7 @@ package com.luciaspackage;
 public class EmployeeSalary {
     private int baseSalary;
     private int hourlyRate;
-
+//cinnebt
 
     public EmployeeSalary(int baseSalary, int hourlyRate){
         setBaseSalary(baseSalary);
